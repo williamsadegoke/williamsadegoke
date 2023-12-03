@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @williamsadegoke
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python for data science
-- 💞️ I’m looking to collaborate on using python to data science projects
+- 👀 I’m a project manager and a data analyst
+- 🌱 I’m proficient in Excel, SQL, PowerBI, and Python for data analytics and visualization
+- 💞️ I’m open to a role in data analytics and project management
 - 📫 How to reach me adegokewilliams@gmail.com
 
 <!---
