@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @williamsadegoke
 - 👀 I’m a project manager and a data analyst
-- 🌱 I’m proficient in Excel, SQL, PowerBI, and Python for data analytics and visualization
+- 🌱 I’m proficient in Excel, SQL, PowerBI, and Python for data analysis and visualization
 - 💞️ I’m open to a role in data analytics and project management
 - 📫 How to reach me adegokewilliams@gmail.com
 
